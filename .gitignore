@@ -1,0 +1,29 @@
+# Go binary
+im-server
+*.exe
+*.test
+*.out
+
+# Dependencies
+web/node_modules/
+
+# Build output
+web/dist/
+
+# Uploaded files (keep directory, ignore content)
+/uploads/*.*
+!uploads/.gitkeep
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Env
+.env
+*.local
