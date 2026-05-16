@@ -17,6 +17,7 @@ web/dist/
 # IDE
 .idea/
 .vscode/
+.history/
 *.swp
 *.swo
 
@@ -27,3 +28,7 @@ Thumbs.db
 # Env
 .env
 *.local
+
+# Claude Code session artifacts
+.claude/
+config.yaml
