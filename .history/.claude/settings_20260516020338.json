@@ -1,5 +1,0 @@
-{
-  "enabledPlugins": {
-    "superpowers@claude-plugins-official": true  // 对应你安装的版本
-  }
-}
